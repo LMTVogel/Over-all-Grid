@@ -4,10 +4,28 @@ body {
 
 .grid-container {
 	display: grid;
-	background-color: red;
-	text-align: center;
+	background-color: coral;
 }
 
 .centering {
+	margin: 0 auto; 
 	width: 1100px;
+}
+
+.header {
+	height: 120px;
+	background-image: url(../images/header_bg.png);
+}
+
+.banner {
+	height: 400px;
+	background-image: url(../images/banner_bg.png);
+}
+
+.logo {
+	margin: 10px;
+}
+
+.fadeslider {
+	
 }
